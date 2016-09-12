@@ -3,6 +3,10 @@ Quickly cut a long video into smaller parts using FFMPEG on Linux
 
 Shell Script to cut a long video into smaller parts using FFMPEG on Linux
 
+You need to install FFMPEG first if you don't already have it.
+On Ubuntu 16.04 just open terminal and type "sudo apt-get install ffmpeg" without quotes, hit enter.
+You'll have to search Google to install it on older linux versions, 
+
 First ...
 
 1. Place "array-video-cut.sh" in an empty folder.
