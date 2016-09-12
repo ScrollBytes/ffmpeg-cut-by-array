@@ -1,7 +1,7 @@
 # ffmpeg-cut-by-array
 Shell Script to quickly cut a video into smaller parts using FFMPEG on Linux
 
-First ...
+##First ...
 
 1. Place "array-video-cut.sh" in an empty folder.
 2. Make it executable by opening terminal (CTRL+ALT+T) and typing "chmod +x /path/to/script/array-video-cut.sh"
@@ -9,7 +9,7 @@ First ...
 Replace "/path/to/script/" with the actual path on your computer. You can get the path by opening your file manager, right-click on "array-video-cut.sh" and click "Copy path(s)".
 
 
-How to use ...
+##How to use ...
 
 1. Open "array-video-cut.sh" using a text editor program like Geany.
 2. Change the INPUTFILE variable to the path of the video file you want to cut.
@@ -21,7 +21,7 @@ FFMPEG will cut the video at the points you've entered and place the new videos 
 
 Tested on Lubuntu 14.04
 
-You need to install FFMPEG for this to work:
+####You need to install FFMPEG for this to work:
 
 1. On Ubuntu 16.04 just open terminal and type "sudo apt-get install ffmpeg" without quotes, hit enter.
 2. You'll have to search Google on how to install it on previous Ubuntu versions or on other linux distributions - I used a PPA to easily install it http://www.faqforge.com/linux/how-to-install-ffmpeg-on-ubuntu-14-04/
