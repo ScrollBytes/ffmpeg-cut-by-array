@@ -24,4 +24,4 @@ Tested on Lubuntu 14.04
 You need to install FFMPEG for this to work:
 
 1. On Ubuntu 16.04 just open terminal and type "sudo apt-get install ffmpeg" without quotes, hit enter.
-2. You'll have to search Google on how to install it on previous linux versions - I used a PPA to easily install it http://www.faqforge.com/linux/how-to-install-ffmpeg-on-ubuntu-14-04/
+2. You'll have to search Google on how to install it on previous Ubuntu versions or on other linux distributions - I used a PPA to easily install it http://www.faqforge.com/linux/how-to-install-ffmpeg-on-ubuntu-14-04/
