@@ -19,7 +19,7 @@ Replace "/path/to/script/" with the actual path on your computer. You can get th
 
 FFMPEG will cut the video at the points you've entered and place the new videos in the same folder as the script.
 
-Tested on Lubuntu 14.04
+Tested on Lubuntu 16.04
 
 ####You need to install FFMPEG for this to work:
 
